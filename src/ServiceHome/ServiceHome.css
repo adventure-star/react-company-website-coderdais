@@ -1,0 +1,62 @@
+.service-header{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+    margin-top: 204px;
+}
+
+.service-holder{
+  
+    margin: 20px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.img1{
+    height: 100px;
+    width: 196px;
+    
+}
+
+.img2{
+    height: 100px;
+    width: 150px;
+    
+}
+
+.img3{
+    height: 100px;
+    width: 150px;
+    
+}
+
+h4{
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+   margin:10px;
+    text-align: center;
+
+}
+
+.service-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+    min-height: 185px;
+    max-width: 237px;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25);
+    position: relative;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.service-card:hover{
+    z-index: 1;
+    transform: scale(1.05);
+}
+
+.sDetails{
+    margin-bottom: 100px;
+}

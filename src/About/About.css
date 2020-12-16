@@ -1,0 +1,47 @@
+.first{
+    display: inline;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 5px solid rgb(7, 161, 115);
+   
+
+}
+
+.second{
+    display: inline;
+    color:rgb(7, 161, 115);
+    font-weight: bold;
+    padding-top: 12rem;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-top: 5rem;
+}
+
+p{
+   font-size: 15px;
+   padding: 10px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.company-details{
+    border: 2px solid rgb(31, 1, 1);
+    background-color: rgb(241, 207, 207);
+}
+
+.product-details{
+    border: 2px solid rgb(31, 1, 1);
+    background-color: rgb(222, 227, 233);
+    
+}
+
+.head-right{
+    margin-left: 18rem;
+}
+
+img{
+    height: 10rem;
+}

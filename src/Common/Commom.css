@@ -1,0 +1,61 @@
+#header{
+    margin-top: 10%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#header a.btn-get-started{
+       color:blue;
+       font-weight: bold;
+       letter-spacing: 1px;
+       text-decoration: none;
+       padding:10px 30px;
+       border-radius: 50px;
+       border: 2px solid blue;
+       transition:0.5s ;
+      
+}
+
+#header a.btn-get-started:hover{
+    background:gray;
+    color: white;
+}
+
+.last-name{
+    color:rgb(74, 79, 82);
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+
+.first_name{
+    color: red;
+    font-style: italic;
+}
+
+.work{
+    font-family: 'Poppins', sans-serif;;
+}
+
+img{
+    height: 15rem;
+    
+} 
+
+/* #header .inner{
+    overflow: hidden;
+}
+
+#header .inner img{
+    transition: all 1s linear;
+}
+
+#header .inner:hover{
+    transform: scale(1.5);
+} */
+
+@media screen and (max-width: 786px) {
+    .home-img {
+      width: 15rem;
+    }
+  }
+

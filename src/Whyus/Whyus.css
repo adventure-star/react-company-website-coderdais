@@ -1,0 +1,42 @@
+.whyus h3{
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.chose-header{
+    font-size: 40px;
+    font-weight: bold;
+    margin:120px;
+
+}
+
+.whyus-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+    min-height: 285px;
+    max-width: 335px;
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25);
+    position: relative;
+    margin: 20px;
+}
+
+.whyus .whyus-card .icon .logoPlaceholder{
+    border-radius: 50%;
+    -webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    width: 100px;
+    height: 100px;
+    margin: -45px auto 20px auto;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.whyus-card:hover{
+    z-index: 1;
+    transform: scale(1.05);
+    
+}
